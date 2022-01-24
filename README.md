@@ -1,8 +1,10 @@
 Alfonso García Jorge
 
 <p float="left">
-<img src= "https://user-images.githubusercontent.com/91060831/140652925-4b1b7c5e-f5a4-49a7-99c8-c1b989fbf044.png" width="300"/>
+ 
 <img src= "https://user-images.githubusercontent.com/91060831/149914981-ebc9e1a6-8d3c-4edd-9c5a-e76f1437283e.jpg" width="300"/>
+<img src= "https://user-images.githubusercontent.com/91060831/140652925-4b1b7c5e-f5a4-49a7-99c8-c1b989fbf044.png" width="80"/>
+
 </p>
 
 Sobre mí: 
