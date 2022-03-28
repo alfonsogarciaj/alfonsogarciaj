@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alfonsogjorge@gmail.com**
 
-- 📄 I am expanding my knowledge [with other programming languages](with other programming languages)
+- 📄 I am expanding my knowledge with other programming languages
 
 - ⚡ Fun fact **He was a student of letters who was dying to enter the world of programming.**
 
