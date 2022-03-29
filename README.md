@@ -1,4 +1,4 @@
-<img src= "https://user-images.githubusercontent.com/91060831/149914981-ebc9e1a6-8d3c-4edd-9c5a-e76f1437283e.jpg" width="300"/><h1 align="center">Hi 👋, I'm Alfonso García Jorge</h1>
+<h1 align="center">Hi 👋, I'm Alfonso García Jorge</h1>
 <h3 align="center">Making a hole for myself in this wide world</h3>
 
 - 🔭 I’m currently studying on **I.E.S. Puerto de la Cruz**
