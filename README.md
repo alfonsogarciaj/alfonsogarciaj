@@ -30,7 +30,7 @@
 <!-- Contact Me -->
 <p align="center">
     <samp>
-      <p>Mis Redes Sociales</p>
+      <p>RSS</p>
   <a href="https://twitter.com/alfonsogarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfonsogarciaj" height="30" width="40" /></a>
 <a href="https://instagram.com/alfonsogarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfonsogarciaj" height="30" width="40" /></a>
   <br>
