@@ -27,7 +27,7 @@
 
 <h2></h2><br>
 
-<!-- Contact Me -->
+<!-- RSS-->
 <p align="center">
     <samp>
       <p>RSS</p>
@@ -40,5 +40,14 @@
     <samp>
       <p>Contacte conmigo</p>
       <a href="mailto:alfonsogjorge@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
+  <br>
+
+<p align="center">
+    <samp>
+      <p>Estudios</p>
+       
+- [ ] Desarrollo de Aplicaciones Multiplataforma // This is pending
+- [ ] Curso Ciberseguridad // This is pending
+        
   <br>
 </p>
