@@ -1,6 +1,4 @@
 
-<!-- Inspiration: https://github.com/owl4ce -->
-
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
@@ -11,8 +9,8 @@
             Soy Alfonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
             </b>
         <br>
-          <b>
-         <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=17&color=68DDFFFD&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
+                    <b>
+         <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=13&color=68DDFFFD&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
           </b>
           <br>
             <b>
@@ -45,6 +43,7 @@
       <p>Contacte conmigo</p>
       <a href="mailto:alfonsogjorge@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
   <br>
+
 
 <p align="center">
     <samp>
