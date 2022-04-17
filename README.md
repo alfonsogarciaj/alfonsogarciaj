@@ -10,7 +10,7 @@
             </b>
         <br>
                     <b>
-         <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=13&color=68DDFFFD&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=13&color=68DDFFFD&multiline=true&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
           </b>
           <br>
             <b>
