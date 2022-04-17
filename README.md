@@ -32,8 +32,8 @@
 
 <p align="center">
     <samp>
-      <p>Estudios</p>
-       
+        <p>Estudios</p>
+          
 - [ ] Desarrollo de Aplicaciones Multiplataforma // This is pending
 - [ ] Curso Ciberseguridad // This is pending
         
