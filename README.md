@@ -36,7 +36,8 @@
           
 - [ ] Desarrollo de Aplicaciones Multiplataforma // This is pending
 - [ ] Curso Ciberseguridad // This is pending
-        
+        </p>
+    
   <br>
         
  <p align="center">
@@ -54,6 +55,7 @@
   <a href="https://twitter.com/alfonsogarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfonsogarciaj" height="30" width="40" /></a>
 <a href="https://instagram.com/alfonsogarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfonsogarciaj" height="30" width="40" /></a>
   <br>
+        </p>
 
 <!-- Contact Me -->
         
@@ -61,6 +63,5 @@
     <samp>
       <p>Contacte conmigo</p>
       <a href="mailto:alfonsogjorge@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
-    
   <br>
 </p>
