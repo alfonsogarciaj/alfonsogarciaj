@@ -1,4 +1,4 @@
-
+<div align="center">
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
@@ -65,3 +65,4 @@
       <a href="mailto:alfonsogjorge@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
   <br>
 </p>
+</div>
