@@ -8,9 +8,8 @@
         <br>
             Soy Alfonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
             </b>
-        <br>
-                    <b>
-         <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=13&color=68DDFFFD&multiline=true&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
+        <br>          <b>
+         <img src="https://readme-typing-svg.herokuapp.com?size=13&duration=4996&color=32B1D2&lines=Si+no+puedes+sobresalir+con+talento%2C;triunfa+con+esfuerzo.">
           </b>
           <br>
             <b>
