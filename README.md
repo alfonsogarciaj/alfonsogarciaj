@@ -33,7 +33,7 @@
     <samp>
         <p>Estudios</p>
           
-- [ ] Desarrollo de Aplicaciones Multiplataforma // This is pending
+- [ ] Desarrollo de Aplicaciones Web // This is pending
 - [ ] Curso Ciberseguridad // This is pending
         </p>
     
